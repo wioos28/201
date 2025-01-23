@@ -107,12 +107,7 @@ Tab:AddButton({
 	Callback = function()
      loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
   	end    
-})
-Tab:AddButton({
-	Name = "NEW: neva",
-	Callback = function()
-      loadstring(game:HttpGet('https://raw.githubusercontent.com/VEZ2/NEVAHUB/main/2'))()
-  	end    
+
 })
 Tab:AddButton({
 	Name = "NEW: w-arue",
